@@ -1,5 +1,5 @@
 _repo: Civil-Government-of-Virginia-A-Text-book-for-Schools-Based-Upon-the-Constitution-of-1902-and-C__4762
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -24,6 +24,7 @@ rights_url: http://creativecommons.org/about/pdm
 subjects:
 - !lcsh 'Virginia -- Politics and government'
 - !lcc 'JK'
+- GITenberg
 title: "Civil Government of Virginia\r\nA Text-book for Schools Based Upon the Constitution\
   \ of 1902 and Conforming to the Laws Enacted in Accordance Therewith"
 url: http://www.gutenberg.org/ebooks/4762
